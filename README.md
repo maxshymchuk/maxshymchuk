@@ -38,4 +38,4 @@
     <img width="500" />
 </picture>
 
-### Visit my [github-based website](https:/maxshymchuk.github.io/) to see my projects!
+### Visit my <a href="https://maxshymchuk.github.io/" target="_blank">github-based website</a> to see my projects!
