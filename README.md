@@ -28,11 +28,11 @@
 
 <picture>
     <source
-        srcset="https://github-readme-streak-stats.herokuapp.com?user=maxshymchuk&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FF0000&ring=A00000&fire=A00000&currStreakLabel=FFFFFF&theme=dark"
+        srcset="https://github-readme-streak-stats.herokuapp.com?user=maxshymchuk&hide_border=true&date_format=j%20M%5B%20Y%5D&disable_animations=true&stroke=FF0000&ring=A00000&fire=A00000&currStreakLabel=FFFFFF&theme=dark"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-streak-stats.herokuapp.com?user=maxshymchuk&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FF0000&ring=A00000&fire=A00000&currStreakLabel=FFFFFF"
+        srcset="https://github-readme-streak-stats.herokuapp.com?user=maxshymchuk&hide_border=true&date_format=j%20M%5B%20Y%5D&disable_animations=true&stroke=FF0000&ring=A00000&fire=A00000&currStreakLabel=FFFFFF"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="500" />
