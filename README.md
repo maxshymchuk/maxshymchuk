@@ -7,8 +7,7 @@
     "age": 24,
     "level": "Middle",
     "myTechStack": "React + TypeScript 🚀",
-    "myFuture": "Full-stack webdev 💻",
-    "myDreams": "Someday to become a Game Designer, but for now 'myFuture' 😄",
+    "myGoal": "Full-stack webdev 💻",
     "favouriteDrink": "Coffee of course! ☕",
     "currentProject": "Tagger project for making hashtags in convenient way 💼"
 }
