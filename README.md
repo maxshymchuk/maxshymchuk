@@ -9,7 +9,11 @@
     "myTechStack": "React + TypeScript 🚀",
     "myGoal": "Full-stack webdev 💻",
     "favouriteDrink": "Coffee of course! ☕",
-    "currentProject": "Tagger project for making hashtags in convenient way 💼"
+    "currentProject": {
+        "name": "Tagger",
+        "description": "Project for making hashtags in convenient way 💼",
+        "progress": "Pre-alpha phase"
+    }
 }
 ```
 
