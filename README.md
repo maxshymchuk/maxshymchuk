@@ -1,4 +1,4 @@
-## Greetings!
+## Greetings, my friend!
 
 ```json
 {
