@@ -12,6 +12,7 @@
     "currentProject": {
         "name": "Tagger",
         "description": "Project for making hashtags in convenient way 💼",
+        "technologies": "Plain JS + CSS",
         "progress": "Pre-alpha phase"
     }
 }
