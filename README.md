@@ -9,6 +9,7 @@
     "myTechStack": "React + TypeScript 🚀",
     "myGoal": "Full-stack webdev 💻",
     "favouriteDrink": "Coffee of course! ☕",
+    "isCatPerson": true,
     "currentProject": {
         "name": "Tagger",
         "description": "Project for making hashtags in convenient way 💼",
