@@ -15,7 +15,8 @@
         "description": "Project for making hashtags in convenient way 💼",
         "technologies": "Plain JS + CSS",
         "plans": "Vue.js + TypeScript",
-        "progress": "Pre-alpha phase"
+        "progress": "Pre-alpha phase",
+        "currentTask": "Connect OAuth"
     }
 }
 ```
